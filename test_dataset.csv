@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+USA,25.0,50000.0,True
+Canada,,60000.0,False
+Germany,35.0,,True
+Australia,28.0,55000.0,False
+India,45.0,,True
+UK,,62000.0,False
+Japan,32.0,58000.0,True
+France,29.0,,False
+Brazil,,75000.0,True
+Mexico,41.0,54000.0,False
